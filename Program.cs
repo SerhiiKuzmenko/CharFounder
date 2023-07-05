@@ -76,6 +76,7 @@ namespace ConsoleApp9
                     {
                         trueIndex++;
                         once = results[trueIndex];
+                        i=0;
                     }
                 }
             }
